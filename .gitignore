@@ -1,2 +1,29 @@
+# --- Docker Data ---
+# Ignorar todo el contenido de las carpetas de datos de las BDs
 todo-docker/data/*
+# Permitir explícitamente rastrear el archivo .gitkeep para mantener la estructura de carpetas
 !todo-docker/data/.gitkeep
+
+# --- Entornos Virtuales de Python ---
+.venv/
+venv/
+env/
+ENV/
+python-env/
+# Archivos de configuración de entornos virtuales
+pyvenv.cfg
+.Python
+
+# --- Archivos temporales y caché de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Bases de datos locales de prueba (como SQLite) ---
+*.db
+*.sqlite3
+
+# --- Configuración de IDEs (Opcional, por si usas VS Code o PyCharm) ---
+.vscode/
+.idea/
+.DS_Store
