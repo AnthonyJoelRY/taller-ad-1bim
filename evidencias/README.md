@@ -66,13 +66,18 @@ SQLALCHEMY_DATABASE_URI = 'postgresql://user:password@localhost:5434/orm_db'
 Solo debe quedar descomentada la línea del motor que quieras usar.
 
 ## Evidencias visuales
-Agrega aquí las capturas de pantalla o imágenes de la configuración y los resultados.
+# Primera Parte.
+<img width="1564" height="594" alt="image" src="https://github.com/user-attachments/assets/41116da5-1dac-4359-95ec-6ea37418b45a" />
 
 ### Imagen 1: Conexión en pgAdmin
-![pgAdmin servidor](./img_pgadmin_servidor.png)
+<img width="819" height="831" alt="image" src="https://github.com/user-attachments/assets/fa721234-5fb0-4064-bdc1-a051a2e66340" />
 
 ### Imagen 2: Tablas creadas en PostgreSQL
-![Tablas en PostgreSQL](./img_pgadmin_tablas.png)
+<img width="708" height="496" alt="image" src="https://github.com/user-attachments/assets/7fce559e-b19a-4bf1-abdc-06a2039e6000" />
 
-### Imagen 3: Resultados de las consultas
-![Resultados consultas](./img_consultas.png)
+### Imagen 3: Conexión en phpadmin
+<img width="1609" height="586" alt="image" src="https://github.com/user-attachments/assets/b735ad74-400a-42de-960a-ab151f8246a6" />
+
+### Imagen 4: Resultados de las consultas
+<img width="1372" height="607" alt="image" src="https://github.com/user-attachments/assets/8d974563-1c5d-48e8-964b-4f28195c787a" />
+
