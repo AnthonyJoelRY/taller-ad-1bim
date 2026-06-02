@@ -20,10 +20,11 @@
 - `base-datos/data/datos_universidad/datos/*.json`
 
 ## Dependencias
-- Instalar SQLAlchemy con:
+
 
 ```bash
-pip install -r base-datos/requirements.txt
+cd base-datos
+pip install -r requirements.txt
 ```
 
 ## Ejecución
@@ -46,3 +47,32 @@ pip install -r base-datos/requirements.txt
    python consulta_or.py
    python consulta_and.py
    ```
+
+## Cambio de motor de base de datos
+Para cambiar el motor de base de datos solo tienes que editar `base-datos/configuracion.py` y comentar o descomentar la URL correspondiente.
+
+Ejemplos en `configuracion.py`:
+```python
+# SQLite local
+# SQLALCHEMY_DATABASE_URI = 'sqlite:///universidad.db'
+
+# MariaDB / MySQL
+# SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:rootpassword@localhost:3308/orm_db'
+
+# PostgreSQL
+SQLALCHEMY_DATABASE_URI = 'postgresql://user:password@localhost:5434/orm_db'
+```
+
+Solo debe quedar descomentada la línea del motor que quieras usar.
+
+## Evidencias visuales
+Agrega aquí las capturas de pantalla o imágenes de la configuración y los resultados.
+
+### Imagen 1: Conexión en pgAdmin
+![pgAdmin servidor](./img_pgadmin_servidor.png)
+
+### Imagen 2: Tablas creadas en PostgreSQL
+![Tablas en PostgreSQL](./img_pgadmin_tablas.png)
+
+### Imagen 3: Resultados de las consultas
+![Resultados consultas](./img_consultas.png)
