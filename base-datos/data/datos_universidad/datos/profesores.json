@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombres": "Ana",
+    "apellidos": "Romero",
+    "correo": "ana.romero@universidad.edu",
+    "especialidad": "Bases de Datos",
+    "carrera": "Ingeniería en Software"
+  },
+  {
+    "id": 2,
+    "nombres": "Pedro",
+    "apellidos": "Mora",
+    "correo": "pedro.mora@universidad.edu",
+    "especialidad": "Inteligencia Artificial",
+    "carrera": "Ingeniería en Software"
+  },
+  {
+    "id": 3,
+    "nombres": "Sofía",
+    "apellidos": "León",
+    "correo": "sofia.leon@universidad.edu",
+    "especialidad": "Arquitectura de Computadores",
+    "carrera": "Ingeniería en Computación"
+  },
+  {
+    "id": 4,
+    "nombres": "Jorge",
+    "apellidos": "Salinas",
+    "correo": "jorge.salinas@universidad.edu",
+    "especialidad": "Macroeconomía",
+    "carrera": "Economía"
+  },
+  {
+    "id": 5,
+    "nombres": "Carla",
+    "apellidos": "Rojas",
+    "correo": "carla.rojas@universidad.edu",
+    "especialidad": "Gestión Empresarial",
+    "carrera": "Administración de Empresas"
+  },
+  {
+    "id": 6,
+    "nombres": "Miguel",
+    "apellidos": "Paredes",
+    "correo": "miguel.paredes@universidad.edu",
+    "especialidad": "Cardiología",
+    "carrera": "Medicina"
+  },
+  {
+    "id": 7,
+    "nombres": "Lucía",
+    "apellidos": "Cabrera",
+    "correo": "lucia.cabrera@universidad.edu",
+    "especialidad": "Salud Comunitaria",
+    "carrera": "Enfermería"
+  },
+  {
+    "id": 8,
+    "nombres": "Diego",
+    "apellidos": "Mendoza",
+    "correo": "diego.mendoza@universidad.edu",
+    "especialidad": "Didáctica General",
+    "carrera": "Educación Básica"
+  },
+  {
+    "id": 9,
+    "nombres": "Elena",
+    "apellidos": "Paz",
+    "correo": "elena.paz@universidad.edu",
+    "especialidad": "Enseñanza de Matemática",
+    "carrera": "Pedagogía de las Ciencias Experimentales"
+  },
+  {
+    "id": 10,
+    "nombres": "Ricardo",
+    "apellidos": "Vera",
+    "correo": "ricardo.vera@universidad.edu",
+    "especialidad": "Ingeniería de Software",
+    "carrera": "Ingeniería en Software"
+  }
+]

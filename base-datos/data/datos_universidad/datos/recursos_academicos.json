@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "titulo": "Fundamentos de SQL",
+    "fecha_publicacion": "2024-02-15",
+    "tipo": "Libro",
+    "url": "https://recursos.edu/sql",
+    "profesor": "Ana Romero"
+  },
+  {
+    "id": 2,
+    "titulo": "Introducción a Machine Learning",
+    "fecha_publicacion": "2024-03-20",
+    "tipo": "Video",
+    "url": "https://recursos.edu/ml",
+    "profesor": "Pedro Mora"
+  },
+  {
+    "id": 3,
+    "titulo": "Arquitectura Moderna de Computadores",
+    "fecha_publicacion": "2024-01-10",
+    "tipo": "Guia",
+    "url": "https://recursos.edu/arquitectura",
+    "profesor": "Sofía León"
+  },
+  {
+    "id": 4,
+    "titulo": "Macroeconomía Aplicada",
+    "fecha_publicacion": "2024-04-05",
+    "tipo": "Libro",
+    "url": "https://recursos.edu/macroeconomia",
+    "profesor": "Jorge Salinas"
+  },
+  {
+    "id": 5,
+    "titulo": "Gestión Estratégica",
+    "fecha_publicacion": "2024-05-12",
+    "tipo": "Video",
+    "url": "https://recursos.edu/gestion",
+    "profesor": "Carla Rojas"
+  },
+  {
+    "id": 6,
+    "titulo": "Manual Básico de Cardiología",
+    "fecha_publicacion": "2024-06-01",
+    "tipo": "Guia",
+    "url": "https://recursos.edu/cardiologia",
+    "profesor": "Miguel Paredes"
+  },
+  {
+    "id": 7,
+    "titulo": "Cuidados Primarios en Enfermería",
+    "fecha_publicacion": "2024-06-18",
+    "tipo": "Libro",
+    "url": "https://recursos.edu/enfermeria",
+    "profesor": "Lucía Cabrera"
+  },
+  {
+    "id": 8,
+    "titulo": "Estrategias Didácticas para Educación Básica",
+    "fecha_publicacion": "2024-07-03",
+    "tipo": "Guia",
+    "url": "https://recursos.edu/didactica",
+    "profesor": "Diego Mendoza"
+  },
+  {
+    "id": 9,
+    "titulo": "Matemática Experimental en el Aula",
+    "fecha_publicacion": "2024-07-21",
+    "tipo": "Video",
+    "url": "https://recursos.edu/matematica-experimental",
+    "profesor": "Elena Paz"
+  },
+  {
+    "id": 10,
+    "titulo": "Buenas Prácticas en Ingeniería de Software",
+    "fecha_publicacion": "2024-08-09",
+    "tipo": "Libro",
+    "url": "https://recursos.edu/ingenieria-software",
+    "profesor": "Ricardo Vera"
+  },
+  {
+    "id": 11,
+    "titulo": "Normalización de Bases de Datos",
+    "fecha_publicacion": "2024-08-22",
+    "tipo": "Guia",
+    "url": "https://recursos.edu/normalizacion",
+    "profesor": "Ana Romero"
+  },
+  {
+    "id": 12,
+    "titulo": "Modelos Predictivos con Python",
+    "fecha_publicacion": "2024-09-10",
+    "tipo": "Video",
+    "url": "https://recursos.edu/modelos-python",
+    "profesor": "Pedro Mora"
+  }
+]

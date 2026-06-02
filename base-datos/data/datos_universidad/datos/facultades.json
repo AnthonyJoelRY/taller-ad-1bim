@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Facultad de Ingeniería",
+    "ubicacion": "Edificio A",
+    "decano": "Carlos Andrade"
+  },
+  {
+    "id": 2,
+    "nombre": "Facultad de Ciencias Económicas",
+    "ubicacion": "Edificio B",
+    "decano": "María Torres"
+  },
+  {
+    "id": 3,
+    "nombre": "Facultad de Ciencias de la Salud",
+    "ubicacion": "Edificio C",
+    "decano": "Luis Herrera"
+  },
+  {
+    "id": 4,
+    "nombre": "Facultad de Educación",
+    "ubicacion": "Edificio D",
+    "decano": "Patricia Vega"
+  }
+]

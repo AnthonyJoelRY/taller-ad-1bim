@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ingeniería en Software",
+    "codigo": "ISW001",
+    "facultad": "Facultad de Ingeniería"
+  },
+  {
+    "id": 2,
+    "nombre": "Ingeniería en Computación",
+    "codigo": "ICOM002",
+    "facultad": "Facultad de Ingeniería"
+  },
+  {
+    "id": 3,
+    "nombre": "Economía",
+    "codigo": "ECO003",
+    "facultad": "Facultad de Ciencias Económicas"
+  },
+  {
+    "id": 4,
+    "nombre": "Administración de Empresas",
+    "codigo": "ADM004",
+    "facultad": "Facultad de Ciencias Económicas"
+  },
+  {
+    "id": 5,
+    "nombre": "Medicina",
+    "codigo": "MED005",
+    "facultad": "Facultad de Ciencias de la Salud"
+  },
+  {
+    "id": 6,
+    "nombre": "Enfermería",
+    "codigo": "ENF006",
+    "facultad": "Facultad de Ciencias de la Salud"
+  },
+  {
+    "id": 7,
+    "nombre": "Educación Básica",
+    "codigo": "EDB007",
+    "facultad": "Facultad de Educación"
+  },
+  {
+    "id": 8,
+    "nombre": "Pedagogía de las Ciencias Experimentales",
+    "codigo": "PCE008",
+    "facultad": "Facultad de Educación"
+  }
+]
