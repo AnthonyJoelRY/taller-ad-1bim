@@ -66,8 +66,12 @@ SQLALCHEMY_DATABASE_URI = 'postgresql://user:password@localhost:5434/orm_db'
 Solo debe quedar descomentada la línea del motor que quieras usar.
 
 ## Evidencias visuales
-# Primera Parte.
+### Docker
 <img width="1564" height="594" alt="image" src="https://github.com/user-attachments/assets/41116da5-1dac-4359-95ec-6ea37418b45a" />
+<img width="244" height="337" alt="image" src="https://github.com/user-attachments/assets/de18acc5-da8b-43d7-a06c-098f7cc70349" />
+
+### Imagen 0: SQLlite
+<img width="1920" height="1126" alt="image" src="https://github.com/user-attachments/assets/66baff67-78cd-437e-b9f8-9207566ac260" />
 
 ### Imagen 1: Conexión en pgAdmin
 <img width="819" height="831" alt="image" src="https://github.com/user-attachments/assets/fa721234-5fb0-4064-bdc1-a051a2e66340" />
