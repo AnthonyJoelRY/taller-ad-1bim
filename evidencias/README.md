@@ -81,3 +81,7 @@ Solo debe quedar descomentada la línea del motor que quieras usar.
 ### Imagen 4: Resultados de las consultas
 <img width="1372" height="607" alt="image" src="https://github.com/user-attachments/assets/8d974563-1c5d-48e8-964b-4f28195c787a" />
 
+### Imagen 5: Resultados de las consultas + consulta nueva
+<img width="1738" height="265" alt="image" src="https://github.com/user-attachments/assets/55d477ba-c325-4f53-8e47-e98be0c648db" />
+
+
